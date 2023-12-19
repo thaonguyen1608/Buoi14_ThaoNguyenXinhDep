@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Bai14_2033210577_NgoTheKiet
+namespace Bai14_2033210471_HuynhThaoNguyen
 {
     internal static class Program
     {

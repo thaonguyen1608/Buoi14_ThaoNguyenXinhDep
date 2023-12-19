@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
-using static Bai14_2033210577_NgoTheKiet.Form3;
+using static Bai14_2033210471_HuynhThaoNguyen.Form3;
 
 public class QLcsdlManager
 {

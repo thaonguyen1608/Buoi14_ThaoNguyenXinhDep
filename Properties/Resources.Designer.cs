@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Bai14_2033210577_NgoTheKiet.Properties {
+namespace Bai14_2033210471_HuynhThaoNguyen.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Bai14_2033210577_NgoTheKiet.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Bai14_2033210577_NgoTheKiet.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Bai14_2033210471_HuynhThaoNguyen.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

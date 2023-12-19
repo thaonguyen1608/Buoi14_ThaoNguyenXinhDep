@@ -48,21 +48,23 @@
             this.gunaControlBox1.AnimationSpeed = 0.03F;
             this.gunaControlBox1.IconColor = System.Drawing.Color.Black;
             this.gunaControlBox1.IconSize = 15F;
-            this.gunaControlBox1.Location = new System.Drawing.Point(731, 0);
+            this.gunaControlBox1.Location = new System.Drawing.Point(548, 0);
+            this.gunaControlBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.gunaControlBox1.Name = "gunaControlBox1";
             this.gunaControlBox1.OnHoverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(58)))), ((int)(((byte)(183)))));
             this.gunaControlBox1.OnHoverIconColor = System.Drawing.Color.White;
             this.gunaControlBox1.OnPressedColor = System.Drawing.Color.Black;
-            this.gunaControlBox1.Size = new System.Drawing.Size(45, 29);
+            this.gunaControlBox1.Size = new System.Drawing.Size(34, 24);
             this.gunaControlBox1.TabIndex = 0;
             // 
             // gunaLabel1
             // 
             this.gunaLabel1.AutoSize = true;
             this.gunaLabel1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gunaLabel1.Location = new System.Drawing.Point(62, 60);
+            this.gunaLabel1.Location = new System.Drawing.Point(46, 49);
+            this.gunaLabel1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.gunaLabel1.Name = "gunaLabel1";
-            this.gunaLabel1.Size = new System.Drawing.Size(68, 23);
+            this.gunaLabel1.Size = new System.Drawing.Size(56, 19);
             this.gunaLabel1.TabIndex = 2;
             this.gunaLabel1.Text = "Cơ Sở :";
             // 
@@ -70,9 +72,10 @@
             // 
             this.gunaLabel2.AutoSize = true;
             this.gunaLabel2.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gunaLabel2.Location = new System.Drawing.Point(62, 136);
+            this.gunaLabel2.Location = new System.Drawing.Point(46, 110);
+            this.gunaLabel2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.gunaLabel2.Name = "gunaLabel2";
-            this.gunaLabel2.Size = new System.Drawing.Size(146, 23);
+            this.gunaLabel2.Size = new System.Drawing.Size(121, 19);
             this.gunaLabel2.TabIndex = 3;
             this.gunaLabel2.Text = "Đơn Vị Đào Tạo :";
             // 
@@ -87,11 +90,12 @@
             this.cobxCoSO.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.cobxCoSO.ForeColor = System.Drawing.Color.Black;
             this.cobxCoSO.FormattingEnabled = true;
-            this.cobxCoSO.Location = new System.Drawing.Point(290, 60);
+            this.cobxCoSO.Location = new System.Drawing.Point(218, 49);
+            this.cobxCoSO.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cobxCoSO.Name = "cobxCoSO";
             this.cobxCoSO.OnHoverItemBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
             this.cobxCoSO.OnHoverItemForeColor = System.Drawing.Color.White;
-            this.cobxCoSO.Size = new System.Drawing.Size(407, 31);
+            this.cobxCoSO.Size = new System.Drawing.Size(306, 26);
             this.cobxCoSO.TabIndex = 4;
             this.cobxCoSO.SelectedIndexChanged += new System.EventHandler(this.cobxCoSO_SelectedIndexChanged);
             // 
@@ -106,12 +110,14 @@
             this.cobxDonViDaoTao.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.cobxDonViDaoTao.ForeColor = System.Drawing.Color.Black;
             this.cobxDonViDaoTao.FormattingEnabled = true;
-            this.cobxDonViDaoTao.Location = new System.Drawing.Point(290, 128);
+            this.cobxDonViDaoTao.Location = new System.Drawing.Point(218, 104);
+            this.cobxDonViDaoTao.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cobxDonViDaoTao.Name = "cobxDonViDaoTao";
             this.cobxDonViDaoTao.OnHoverItemBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
             this.cobxDonViDaoTao.OnHoverItemForeColor = System.Drawing.Color.White;
-            this.cobxDonViDaoTao.Size = new System.Drawing.Size(407, 31);
+            this.cobxDonViDaoTao.Size = new System.Drawing.Size(306, 26);
             this.cobxDonViDaoTao.TabIndex = 5;
+            this.cobxDonViDaoTao.SelectedIndexChanged += new System.EventHandler(this.cobxDonViDaoTao_SelectedIndexChanged);
             // 
             // gunaDataGridView1
             // 
@@ -141,13 +147,14 @@
             this.gunaDataGridView1.DefaultCellStyle = dataGridViewCellStyle3;
             this.gunaDataGridView1.EnableHeadersVisualStyles = false;
             this.gunaDataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            this.gunaDataGridView1.Location = new System.Drawing.Point(66, 226);
+            this.gunaDataGridView1.Location = new System.Drawing.Point(50, 184);
+            this.gunaDataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.gunaDataGridView1.Name = "gunaDataGridView1";
             this.gunaDataGridView1.RowHeadersVisible = false;
             this.gunaDataGridView1.RowHeadersWidth = 51;
             this.gunaDataGridView1.RowTemplate.Height = 24;
             this.gunaDataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.gunaDataGridView1.Size = new System.Drawing.Size(631, 196);
+            this.gunaDataGridView1.Size = new System.Drawing.Size(473, 159);
             this.gunaDataGridView1.TabIndex = 6;
             this.gunaDataGridView1.Theme = Guna.UI.WinForms.GunaDataGridViewPresetThemes.Guna;
             this.gunaDataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
@@ -171,22 +178,24 @@
             this.gunaDataGridView1.ThemeStyle.RowsStyle.Height = 24;
             this.gunaDataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.gunaDataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            this.gunaDataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gunaDataGridView1_CellContentClick);
             // 
             // gunaLabel3
             // 
             this.gunaLabel3.AutoSize = true;
             this.gunaLabel3.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gunaLabel3.Location = new System.Drawing.Point(62, 200);
+            this.gunaLabel3.Location = new System.Drawing.Point(46, 162);
+            this.gunaLabel3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.gunaLabel3.Name = "gunaLabel3";
-            this.gunaLabel3.Size = new System.Drawing.Size(175, 23);
+            this.gunaLabel3.Size = new System.Drawing.Size(146, 19);
             this.gunaLabel3.TabIndex = 7;
             this.gunaLabel3.Text = "Danh Sách Giáo Viên";
             // 
             // Form3
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(777, 450);
+            this.ClientSize = new System.Drawing.Size(583, 366);
             this.Controls.Add(this.gunaLabel3);
             this.Controls.Add(this.gunaDataGridView1);
             this.Controls.Add(this.cobxDonViDaoTao);
@@ -195,6 +204,7 @@
             this.Controls.Add(this.gunaLabel1);
             this.Controls.Add(this.gunaControlBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form3";

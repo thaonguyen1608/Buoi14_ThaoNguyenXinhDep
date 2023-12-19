@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Bai14_2033210577_NgoTheKiet.Properties {
+namespace Bai14_2033210471_HuynhThaoNguyen.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

@@ -1,4 +1,4 @@
-﻿namespace Bai14_2033210577_NgoTheKiet
+﻿namespace Bai14_2033210471_HuynhThaoNguyen
 {
     partial class Form1
     {
