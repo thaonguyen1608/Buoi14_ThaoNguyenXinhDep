@@ -1,0 +1,16 @@
+F:\Bai14_2033210577_NgoTheKiet\bin\Debug\Bai14_2033210577_NgoTheKiet.exe.config
+F:\Bai14_2033210577_NgoTheKiet\bin\Debug\Bai14_2033210577_NgoTheKiet.exe
+F:\Bai14_2033210577_NgoTheKiet\bin\Debug\Bai14_2033210577_NgoTheKiet.pdb
+F:\Bai14_2033210577_NgoTheKiet\bin\Debug\Guna.UI.dll
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.csproj.AssemblyReference.cache
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.Form1.resources
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.Properties.Resources.resources
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.csproj.GenerateResource.cache
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.csproj.CoreCompileInputs.cache
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.csproj.CopyComplete
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.exe
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.pdb
+F:\Bai14_2033210577_NgoTheKiet\obj\Debug\Bai14_2033210577_NgoTheKiet.Form3.resources
+C:\Users\Administrator\Downloads\Bai14_2033210577_HuynhThaoNguyen\bin\Debug\Bai14_2033210577_NgoTheKiet.exe.config
+C:\Users\Administrator\Downloads\Bai14_2033210577_HuynhThaoNguyen\obj\Debug\Bai14_2033210577_NgoTheKiet.exe
+C:\Users\Administrator\Downloads\Bai14_2033210577_HuynhThaoNguyen\obj\Debug\Bai14_2033210577_NgoTheKiet.pdb
